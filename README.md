@@ -1,0 +1,1 @@
+An app that changes the background color of clicked tiles.
