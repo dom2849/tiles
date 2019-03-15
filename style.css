@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.flex-item{
+    height: 25vh;
+    flex: 1;
+    padding: 1rem;
+}
+
+.flex-item :
